@@ -8,7 +8,7 @@ data={
 df=pd.DataFrame(data)
 print(df.shape)
 print(df.columns)
-#to covert it into list
+#to convert it into list
 print(df.columns.tolist())
 print(df.dtypes)
 print(df.memory_usage())
