@@ -135,7 +135,7 @@ The correct treatment depends on the dataset and the reason behind the extreme v
 | Uses Q1 and Q3                  | Uses mean and standard deviation                              |   |      |
 | Less affected by extreme values | Mean and standard deviation can be affected by extreme values |   |      |
 | Useful for skewed data          | Often useful for approximately normal data                    |   |      |
-| Uses the 1.5 × IQR rule         | Common rule of thumb is `                                     | z | > 3` |
+| Uses the 1.5 × IQR rule         | Common rule of thumb is `                                     | z | > 3 |
 
 ---
 
